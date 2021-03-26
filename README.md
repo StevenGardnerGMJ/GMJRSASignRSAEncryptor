@@ -21,9 +21,13 @@ RSA算法的具体描述如下：
 
 
 ##  本工程用途
-旨在 swift 端 启用RSA算法，更加简单易用，算法很完美谈不上，自己在不断的完善过程中，用法很简单，只需要下载 GMJRSASignRSAEncryptor 里文件直接拖拽进入工程就能使用。
+旨在 swift 端 启用RSA算法，更加简单易用，完美谈不上，自己在不断的完善过程中，用法很简单，只需要下载 GMJRSASignRSAEncryptor 里文件直接拖拽进入工程就能使用。
 一句话：简单粗暴有效！
 
+## 用法 How to use
+- 直接拖拽进工程
+- Drag directly into the project
+- 支持 Swift 5
 
 # 如果你觉得算法好用请给个星星支持。
 
